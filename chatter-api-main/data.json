@@ -1,0 +1,68 @@
+[
+	{
+		"userId": "42t3f1lfl33gm8z4",
+		"name": "Mario",
+		"lastName": "Bros",
+		"email": "mario@nintendo.com.ar",
+		"password": "mariobros",
+		"image": "images/42t3f1lfl33gm8yu-mario.png",
+		"chats": [
+			{
+				"chatId": "42t3f1n6l33gos12",
+				"name": "Bowser",
+				"image": "images/42t3f1n6l33gos0r-bowser.png",
+				"messages": [
+					{
+						"messageId": "42t3f1o2l33gq0ki",
+						"message": "Hola mario, como andas?",
+						"timeDate": "2022-05-12T20:27:59.201Z",
+						"received": true
+					},
+					{
+						"messageId": "42t3f1ohl33gq8x7",
+						"message": "Hola! Bien y tu?",
+						"timeDate": "2022-05-12T20:28:10.026Z",
+						"received": false
+					},
+					{
+						"messageId": "42t3f1opl33gqh80",
+						"message": "Pasando bomba con Peach!!",
+						"timeDate": "2022-05-12T20:28:20.783Z",
+						"received": true
+					},
+					{
+						"messageId": "42t3f1ovl33gqllq",
+						"message": "Noooooo",
+						"timeDate": "2022-05-12T20:28:26.461Z",
+						"received": false
+					}
+				]
+			},
+			{
+				"chatId": "42t3f1lyl33godcw",
+				"name": "Peach",
+				"image": "images/42t3f1lyl33godcr-peach.png",
+				"messages": [
+					{
+						"messageId": "42t3f1psl33grkjf",
+						"message": "Hola Peach, donde estás?",
+						"timeDate": "2022-05-12T20:29:11.738Z",
+						"received": false
+					},
+					{
+						"messageId": "42t3f1qel33grq22",
+						"message": "Sola, en casa, por?",
+						"timeDate": "2022-05-12T20:29:18.889Z",
+						"received": true
+					},
+					{
+						"messageId": "42t3f1qml33gruss",
+						"message": "Noooooo",
+						"timeDate": "2022-05-12T20:29:25.035Z",
+						"received": false
+					}
+				]
+			}
+		]
+	}
+]
